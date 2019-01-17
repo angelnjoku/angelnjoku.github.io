@@ -1,0 +1,31 @@
+h1 {
+  font-size: 60px;
+  color: #FFB6CF;
+  font-family: 'Karla', sans-serif;
+  text-align: center;
+  margin-block-end: 0.0em;
+}
+
+h2{
+  font-size: 21px;
+  color: #283535;
+  font-family: 'Quicksand', sans-serif;
+}
+body {
+  width: 80%;
+  min-width: 400px;
+  margin: auto;
+  text-align: center;
+  background-color: #F8F8FF;
+}
+
+#main-selfie {
+  width: 40%;
+}
+
+#instagram {
+  width: 7.5%
+}
+hr {
+  display: block;
+}
